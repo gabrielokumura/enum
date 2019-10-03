@@ -1,0 +1,11 @@
+C:\csharp\exeEnum\exeEnum\bin\Debug\netcoreapp2.1\exeEnum.deps.json
+C:\csharp\exeEnum\exeEnum\bin\Debug\netcoreapp2.1\exeEnum.runtimeconfig.json
+C:\csharp\exeEnum\exeEnum\bin\Debug\netcoreapp2.1\exeEnum.runtimeconfig.dev.json
+C:\csharp\exeEnum\exeEnum\bin\Debug\netcoreapp2.1\exeEnum.dll
+C:\csharp\exeEnum\exeEnum\bin\Debug\netcoreapp2.1\exeEnum.pdb
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.csprojAssemblyReference.cache
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.csproj.CoreCompileInputs.cache
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.AssemblyInfoInputs.cache
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.AssemblyInfo.cs
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.dll
+C:\csharp\exeEnum\exeEnum\obj\Debug\netcoreapp2.1\exeEnum.pdb
